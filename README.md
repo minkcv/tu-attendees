@@ -1,7 +1,7 @@
-200ok-attendees
-===============
+tu-attendees
+============
 
-Just a repo for 200 OK attendees.
+A repo for TU attendees to our git & github class.
 
 Attendee GeoJSON
 ----------------
