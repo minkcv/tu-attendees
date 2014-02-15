@@ -50,8 +50,9 @@
       "type": "Feature", 
       "properties": {
         "web": "http://www.linkedin.com/pub/abigail-labounty/56/409/974", 
-        "name": "Abigail LaBounty", 
-        "twitter": "",
+        "name": "Abigail LaBounty",
+        "github": "alabount",
+        "twitter": "@AbigailLaBounty",
         "location": "Tulsa, OK", 
         "email": "abigail-labounty@utulsa.edu"
       },
