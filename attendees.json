@@ -64,5 +64,23 @@
        "location": "Tulsa, OK",
        "email": "willsmith@utulsa.edu"
     }
+	{
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -93.0737, 
+          36.1270
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "web": "http://http://statemagazine.okstate.edu/node/97", 
+        "github": "cjf590", 
+        "name": "Conor Fellin", 
+        "twitter": "",
+        "location": "St. Louis, MO", 
+        "email": "ian-riley@utulsa.edu"
+      }
+    }, 
   ]
 }
