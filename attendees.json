@@ -21,5 +21,23 @@
         "email": "luke.crouch@gmail.com"
       }
     }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -97.0737, 
+          36.1270
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "web": "http://http://statemagazine.okstate.edu/node/97", 
+        "github": "L3pre3chaun", 
+        "name": "Ian Riley", 
+        "twitter": "", // Ian's too cool for twitter 
+        "location": "Tulsa, OK", 
+        "email": "ian-riley@utulsa.edu"
+      }
+    }, 
   ]
 }
