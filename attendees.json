@@ -39,5 +39,22 @@
         "email": "ian-riley@utulsa.edu"
       }
     }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -95.9436, 
+          36.1529
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "web": "http://www.linkedin.com/pub/abigail-labounty/56/409/974", 
+        "name": "Abigail LaBounty", 
+        "twitter": "",
+        "location": "Tulsa, OK", 
+        "email": "abigail-labounty@utulsa.edu"
+      }
+    }
   ]
 }
