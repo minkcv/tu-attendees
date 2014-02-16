@@ -55,14 +55,7 @@
         "twitter": "@AbigailLaBounty",
         "location": "Tulsa, OK", 
         "email": "abigail-labounty@utulsa.edu"
-      },
-      "type": "Feature",
-      "properties": {
-       "web": "http://www.personal.utulsa.edu/~wds063",
-       "name": "Will Smith",
-       "twitter": "",
-       "location": "Tulsa, OK",
-       "email": "willsmith@utulsa.edu"
+      }
     },
 	{
       "geometry": {
